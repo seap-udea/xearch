@@ -24,7 +24,8 @@ cleancrap:
 #=========================
 #Clean
 #=========================
-signals:
+packsignals:
 	@-rm -rf public/signals/*
-	@-cp -rf signals/* public/signals
-	@-zip signals.zip -r signals
+	@-cp -rf dev/signals/* public/signals
+	@-rm -rf signals.zip
+	@-cd public;zip -FSq ../signals.zip -r signals
