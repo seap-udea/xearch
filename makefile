@@ -29,3 +29,4 @@ packsignals:
 	@-cp -rf dev/signals/* public/signals
 	@-rm -rf signals.zip
 	@-cd public;zip -FSq ../signals.zip -r signals
+	@-cp signals.zip ../xearch-repo/
