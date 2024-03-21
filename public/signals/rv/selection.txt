@@ -1,2 +1,0 @@
-51_Peg_b.pkl
-Proxima_Centauri_b.pkl
