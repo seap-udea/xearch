@@ -1,0 +1,13 @@
+Proxima_Centauri.pkl
+Sun.pkl
+24_Sex.pkl
+61_Vir.pkl
+BD+42_3438.pkl
+GJ_357.pkl
+GJ_682.pkl
+HD_1605.pkl
+HD_11506.pkl
+HD_60532.pkl
+HD_110014.pkl
+HD_140901.pkl
+HD_177830.pkl
