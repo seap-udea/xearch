@@ -1,7 +1,7 @@
 4_Uma.pkl
 8_Umi.pkl
-16_Cyg.pkl
-HD_4113.pkl
+16_Cyg_A.pkl
+HD_4113_A.pkl
 HD_43197.pkl
 HD_156846.pkl
 HD_219828.pkl
